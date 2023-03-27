@@ -2,7 +2,6 @@
 
 This project translates the built-in [GMIC LUTs](https://gmic.eu/color_presets/) to various formats, using a bash script. Preview images are generated for human eyes.
 
-[Download the collection](https://drive.google.com/uc?export=download&id=1YN0Q-nrsw50A5-FgWNWaDvBMm2eyNpRG)
 
 ![collection](./docs/collection.jpg)
 
@@ -29,7 +28,7 @@ This project translates the built-in [GMIC LUTs](https://gmic.eu/color_presets/)
 
 [Requires GMIC](https://gmic.eu/index.html)
 
-Run `bash generate-luts.sh` on the command line. 
+Run `bash generate-luts.ps1` on the Powershell.
 
 To change the preview image, replace test.jpg with your own image. 
 
