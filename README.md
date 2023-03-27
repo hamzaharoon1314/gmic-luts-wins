@@ -1,4 +1,6 @@
-# GMIC LUTs
+# GMIC LUTs - For Windows
+
+# This Project is a Fork of [Popul-AR/gmic-luts](https://github.com/Popul-AR/gmic-luts/)
 
 This project translates the built-in [GMIC LUTs](https://gmic.eu/color_presets/) to various formats, using a bash script. Preview images are generated for human eyes.
 
